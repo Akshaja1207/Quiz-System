@@ -1,2 +1,2 @@
 # Quiz-System
-It's a quiz system with random questions generator it saves the details of the quiz taken with the score. The marks of the quiz are calculated by the time and number of correct answers.
+It's a random Quiz System that displays random questions every time we participate. It Records the Name and Score of the person. It calculates the score with the number of correct answers with the time taken to complete the quiz.
